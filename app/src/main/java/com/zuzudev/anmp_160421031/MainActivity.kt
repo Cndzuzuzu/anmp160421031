@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //halo ada manusia disini
+    //testing kedua kalinya
 }
